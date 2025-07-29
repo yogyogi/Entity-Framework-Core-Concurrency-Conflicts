@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|e:\\yogesh\\seo\\yogihosting\\new\\vcc\\vcc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|solutionrelative:vcc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|e:\\yogesh\\seo\\yogihosting\\new\\vcc\\vcc\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|solutionrelative:vcc\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|e:\\yogesh\\seo\\yogihosting\\new\\vcc\\vcc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|solutionrelative:vcc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|e:\\yogesh\\seo\\yogihosting\\new\\vcc\\vcc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948A8EF9-4916-4A90-9942-2081C8C382DD}|VCC\\VCC.csproj|solutionrelative:vcc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VCC\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VCC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:44:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "VCC\\Models\\Department.cs",
+              "ToolTip": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Models\\Department.cs",
+              "RelativeToolTip": "VCC\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:47:12.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Work.cs",
+              "DocumentMoniker": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "VCC\\Models\\Work.cs",
+              "ToolTip": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Models\\Work.cs",
+              "RelativeToolTip": "VCC\\Models\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:12:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "VCC\\Models\\Employee.cs",
+              "ToolTip": "E:\\Yogesh\\SEO\\Yogihosting\\new\\VCC\\VCC\\Models\\Employee.cs",
+              "RelativeToolTip": "VCC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:46:47.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
