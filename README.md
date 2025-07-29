@@ -2,13 +2,13 @@
 
 <img src="https://www.yogihosting.com/wp-content/uploads/2025/07/concurrency-conflicts-entity-framework-core.png" alt="Entity Framework Core Concurrency Conflicts"  title="Entity Framework Core Concurrency Conflicts">
 
-Multiple users trying to update an entity data at the same time can lead to inconsistencies and data corruption. In this repository we are going to implement Optimistic concurrency in CRUD Operations. Tutorial link - <a href="concurrency-conflicts-entity-framework-core" target="_blank">link</a>
+Multiple users trying to update an entity data at the same time can lead to inconsistencies and data corruption. In this repository we are going to implement Optimistic concurrency in CRUD Operations. Tutorial <a href="https://www.yogihosting.com/concurrency-conflicts-entity-framework-core/" target="_blank">link</a>
 
 ## Version
 .NET 9.0
 
 ## Instruction
-To create database change theconnection string in the `appsettings.json` file and then perform migration - `PM> add-migration Migration1` `PM> Update-Database`
+To create database change the connection string in the `appsettings.json` file and then perform migration - `PM> add-migration Migration1` `PM> Update-Database`
 
 ## What is covered
 The following things are implemented in this repository:
